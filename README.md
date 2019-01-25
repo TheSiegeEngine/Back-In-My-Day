@@ -1,6 +1,8 @@
 # Back in my Day!
 Date: Jan 09, 2019
 
+Link: https://back-in-my-day.herokuapp.com/
+
 ## Project Concept:
 Creating a snapshot of your life through the years that other users can view
 
@@ -25,6 +27,10 @@ Creating a snapshot of your life through the years that other users can view
 10. 20190115 - Basic passport functionality added.
 11. 20190115 - Registration added to page. 
 12. 20190115 - Database moved to Heroku.
+
+### Technologies Used
+
+HTML/CSS, Javascript, Express, Node, EJS, Heroku, Passport
 
 ### Project Overview:
 
