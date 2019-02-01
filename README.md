@@ -30,7 +30,7 @@ Creating a snapshot of your life through the years that other users can view
 
 ### Technologies Used
 
-HTML/CSS, Javascript, Express, Node, EJS, Heroku, Passport
+HTML/CSS, Javascript, Express, Node, EJS, Heroku, Passport, Bootstrap
 
 ### Project Overview:
 
